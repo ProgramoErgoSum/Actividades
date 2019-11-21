@@ -4,11 +4,13 @@
 
 ![](img/club.jpg "Club de programación CoderDojo Murcia")
 
+<!--
 ### Conoce CoderDojo
 
 <div class="iframe">
   <iframe src="//www.youtube.com/embed/1YDcXzvvauM" allowfullscreen></iframe>
 </div>
+-->
 
 
 
@@ -44,6 +46,18 @@ También pueden participar adultos con conocimientos en programación, electrón
 
 
 
+## Asistencia gratuita
+
+Los talleres son **totalmente gratuitos** ya que es una iniciativa donde los mentores dedican parte de su tiempo libre para guiar a los ninjas en el aprendizaje de las diferentes disciplinas y lenguajes de programación. Además, los ninjas deberán llevar obligatoriamente un ordenador portátil. También pueden llevar material de electrónica o robótica (si los tuvieran) para compartir con el resto de sus compañeros.
+
+![](img/precio.jpg "Club gratuito de programación para jóvenes")
+
+
+
+<br />
+
+
+
 ## Centro Municipal 585m2
 
 Los talleres se realizan el primer y tercer sábado de cada mes (salvo festivos) de 11:00h a 13:00h en el Centro Municipal 585m2 de Murcia.
@@ -58,20 +72,10 @@ La organización de los talleres funciona de la siguiente manera; dependiendo de
 
 
 
-## Precio
+## Colaboradores
 
-Los talleres son **totalmente gratuitos** ya que es una iniciativa donde los mentores dedican parte de su tiempo libre para guiar a los ninjas en el aprendizaje de las diferentes disciplinas y lenguajes de programación. Además, los ninjas deberán llevar obligatoriamente un ordenador portátil. También pueden llevar material de electrónica o robótica (si los tuvieran) para compartir con el resto de sus compañeros.
+El Ayuntamiento de Murcia cede el Centro Municipal 585m2 Espacio Joven para la realización de los talleres, así como la posibilidad de utilizar la WiFi del centro. 
 
-![](img/precio.jpg "Club gratuito de programación para jóvenes")
-
-
-
-<br />
-
-
-
-## Patrocina
-
-El Ayuntamiento de Murcia cede el Centro Municipal 585m2 Espacio Joven para la realización de los talleres, así como la posibilidad de utilizar la WiFi del centro. Los materiales de electrónica y robótica utilizados en los talleres han sido adquiridos gracias a *subvenciones concedidas para el fomento de la participación juvenil en el municipio de Murcia por la Concejalía de Juventud del Ayuntamiento de Murcia*.
+Los materiales de electrónica y robótica utilizados en los talleres han sido adquiridos gracias a *subvenciones concedidas para el fomento de la participación juvenil en el municipio de Murcia por la Concejalía de Juventud del Ayuntamiento de Murcia*.
 
 ![](img/patrocina.jpg "Ayuntamiento de Murcia, Informajoven Murcia")
